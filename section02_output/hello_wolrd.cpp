@@ -1,0 +1,1 @@
+std::cout << "Hello, " << "world" << 123 << std::endl;
